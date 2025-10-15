@@ -13,4 +13,5 @@ A minimal Solidity smart contract for voting with token rewards.
 - Add new proposals freely  
 - Burn tokens to vote again  
 - No imports or constructors  
-- Simple ERC20-like token logic  
+- Simple ERC20-like token logic
+  
