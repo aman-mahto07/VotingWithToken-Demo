@@ -25,5 +25,3 @@ To vote again, a user can burn a small number of tokens to reset their voting st
 Ideal for DAO experiments, prototype governance systems, or blockchain education.  
 This project demonstrates how token incentives can be directly linked to decentralized decision-making.
 
-## License
-MIT License
